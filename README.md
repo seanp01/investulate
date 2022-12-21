@@ -1,6 +1,6 @@
 # investulate
 Speculative Investing Information Web-App Tool for Speculatively Invested Invests Involved in Investable Speculations, Speculated to be a Multi-Platform Application.
-*i.e., Stocks, Bonds, Indexes, Commodities, News, Notes, Information, ect...*
+*i.e., Stocks, Bonds, Indexes, Commodities, Digital Assets, News, Notes, Information, ect...*
 
 >### 12.22.2022 
 > *gimmicky for now, just brainstorming ideas and concepts*
@@ -20,3 +20,7 @@ Speculative Investing Information Web-App Tool for Speculatively Invested Invest
 - R
 - Ruby
 
+### Blah
+- Reads like a book
+- Simple plain text when possible, simplest HTML, Readable
+- FAST
