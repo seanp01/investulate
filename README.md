@@ -22,5 +22,5 @@ Speculative Investing Information Web-App Tool for Speculatively Invested Invest
 
 ### Blah
 - Reads like a book
-- Simple plain text when possible, simplest HTML, Readable
+- Simple plain text when possible, simplest HTML, Readable Fonts
 - FAST
